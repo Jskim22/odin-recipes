@@ -1,0 +1,48 @@
+
+body {
+    text-align: center;
+    background-color: rgb(238, 238, 192);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tart {
+    width: 500px;
+    height: 400x;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: orangered;
+    padding-bottom: 20px;
+    padding-top: 20px;  
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+h2 {
+    color: orange;
+  
+}
+
+h3 {
+    color: orangered;
+}
+
+ul,
+ol{
+    text-align: center;
+    list-style-position: inside;
+  }
+
+li {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+

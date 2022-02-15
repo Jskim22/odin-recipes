@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 33px;
+    background-color: rgb(212, 247, 212);
+}
+
+h1 {
+    color: green;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+img {
+    width: 500px;
+    height: 550px;
+}
+
+.description {
+    color: rgb(107, 85, 23);
+}
+
+#ingredient {
+    color: green;
+}
+
+#steps {
+    color: rgb(107, 85, 23);
+}
